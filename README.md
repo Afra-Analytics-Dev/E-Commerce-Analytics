@@ -1,5 +1,5 @@
 # E-Commerce Customer Analytics Platform
-# A comprehensive end-to-end data analytics project that processes synthetic e-commerce data through all four levels of analytics—descriptive, diagnostic, predictive, and prescriptive—delivering actionable business insights and machine learning models for customer behavior analysis.
+A comprehensive end-to-end data analytics project that processes synthetic e-commerce data through all four levels of analytics—descriptive, diagnostic, predictive, and prescriptive—delivering actionable business insights and machine learning models for customer behavior analysis.
 
 # Project Overview
 Dataset: Synthetically generated e-commerce data with 10,000 customers and 184,939 transactions spanning two years (2022-2024)
